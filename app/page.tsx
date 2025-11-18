@@ -6,13 +6,44 @@ import { Check, Star, Shield, Zap, Lock, Clock, Award, Users, TrendingUp } from 
 const COUNTDOWN_START_SECONDS = 300;
 
 const reviews = [
-  { name: "Sarah M.", city: "New York", text: "Best investment I've made. Results in 24 hours!", rating: 5 },
-  { name: "Michael R.", city: "Los Angeles", text: "Incredible value and legit methods that actually work.", rating: 5 },
-  { name: "Jessica T.", city: "Chicago", text: "Changed my entire approach. Worth every penny!", rating: 5 },
-  { name: "David K.", city: "Houston", text: "Fast delivery and quality content. Highly recommend!", rating: 5 },
-  { name: "Emily P.", city: "Phoenix", text: "The exclusive tier is mind-blowing. Get it now!", rating: 5 },
-  { name: "James L.", city: "Miami", text: "Finally something that delivers on its promises.", rating: 5 },
+  { 
+    name: "Amit Sharma", 
+    city: "Delhi", 
+    text: "Bhai website ekdum fast hai! Videos bina buffer ke chalti hain. Paisa vasool service!", 
+    rating: 5 
+  },
+  { 
+    name: "Priya Singh", 
+    city: "Mumbai", 
+    text: "Quality superb hai. HD videos instantly mil gayi. Customer support bhi helpful tha.", 
+    rating: 5 
+  },
+  { 
+    name: "Karan Patel", 
+    city: "Ahmedabad", 
+    text: "Sach bolu toh expect nahi kiya tha ki itna smooth hoga. Download speed bhi zabardast!", 
+    rating: 5 
+  },
+  { 
+    name: "Neha Verma", 
+    city: "Lucknow", 
+    text: "Videos ka collection kaafi bada hai. Har category ka content mil jata hai. Highly recommended!", 
+    rating: 5 
+  },
+  { 
+    name: "Rohit Yadav", 
+    city: "Bangalore", 
+    text: "Subscription bilkul worth hai. Daily new videos mil jaati hain. Overall experience 10/10.", 
+    rating: 5 
+  },
+  { 
+    name: "Simran Kaur", 
+    city: "Chandigarh", 
+    text: "Interface simple aur clean hai. Jo chahiye tha woh seconds me mil gaya. Bahut hi useful site!", 
+    rating: 5 
+  },
 ];
+
 
 export default function Home() {
   const [timeLeft, setTimeLeft] = useState(COUNTDOWN_START_SECONDS);
