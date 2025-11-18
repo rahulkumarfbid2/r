@@ -130,7 +130,7 @@ export default function Home() {
                   Unlock Premium <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#d62b2b] to-[#ff7a17]">Leaked Content</span>
                 </h1>
                 <p className="text-xl sm:text-2xl text-gray-400 mb-10 leading-relaxed">
-                  Access exclusive materials, private methods, and insider strategies that aren't available anywhere else.
+                  Choose your bundle — Get up to 60,000+ exclusive clips, delivered privately within 5 minutes after payment.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
