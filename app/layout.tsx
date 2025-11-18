@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'PayLeaks - Premium Leaked Content & Methods',
-  description: 'Access exclusive materials, private methods, and insider strategies. Instant digital delivery.',
+  title: 'Videos Hub - Premium Leaked Content & Videos',
+  description: 'Access exclusive materials, private videos, and new contents. Instant digital delivery.',
 };
 
 export default function RootLayout({
