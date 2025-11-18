@@ -201,7 +201,7 @@ export default function Home() {
           <section className="py-20">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="text-center max-w-3xl mx-auto mb-16">
-                <h2 className="text-4xl sm:text-5xl font-bold mb-6">Why Trust <span className="text-[#d62b2b]">PayLeaks</span>?</h2>
+                <h2 className="text-4xl sm:text-5xl font-bold mb-6">Why Trust <span className="text-[#d62b2b]">Videos Hub</span>?</h2>
                 <p className="text-xl text-gray-400">
                   We've built a reputation on delivering authentic, high-quality content that provides real value.
                 </p>
@@ -252,7 +252,7 @@ export default function Home() {
                   <div className="text-center mb-8">
                     <h3 className="text-2xl font-bold mb-2">Premium</h3>
                     <div className="flex items-baseline justify-center gap-2 mb-4">
-                      <span className="text-5xl font-black">$299</span>
+                      <span className="text-5xl font-black">₹299</span>
                     </div>
                     <p className="text-gray-400">Essential leaked content</p>
                   </div>
@@ -298,7 +298,7 @@ export default function Home() {
                   <div className="text-center mb-8 mt-4">
                     <h3 className="text-2xl font-bold mb-2">Ultimate</h3>
                     <div className="flex items-baseline justify-center gap-2 mb-4">
-                      <span className="text-5xl font-black text-[#f2b705]">$399</span>
+                      <span className="text-5xl font-black text-[#f2b705]">₹399</span>
                     </div>
                     <p className="text-gray-400">Complete access package</p>
                   </div>
@@ -326,7 +326,7 @@ export default function Home() {
                   </ul>
                   <a
                     href="https://payleaks.bolt.host/399"
-                    className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ${
+                    className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ₹{
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
                         : 'bg-gradient-to-r from-[#d62b2b] to-[#ff7a17] hover:from-[#b62424] hover:to-[#e66d15] shadow-xl shadow-red-900/30'
@@ -342,7 +342,7 @@ export default function Home() {
                   <div className="text-center mb-8">
                     <h3 className="text-2xl font-bold mb-2">Exclusive</h3>
                     <div className="flex items-baseline justify-center gap-2 mb-4">
-                      <span className="text-5xl font-black">$499</span>
+                      <span className="text-5xl font-black">₹499</span>
                     </div>
                     <p className="text-gray-400">VIP insider access</p>
                   </div>
@@ -464,7 +464,7 @@ export default function Home() {
                       aria-disabled={isExpired}
                       onClick={(e) => isExpired && e.preventDefault()}
                     >
-                      Premium - $299
+                      Premium - ₹299
                     </a>
                     <a
                       href="https://payleaks.bolt.host/399"
@@ -476,7 +476,7 @@ export default function Home() {
                       aria-disabled={isExpired}
                       onClick={(e) => isExpired && e.preventDefault()}
                     >
-                      Ultimate - $399
+                      Ultimate - ₹399
                     </a>
                     <a
                       href="https://payleaks.bolt.host/499"
@@ -488,7 +488,7 @@ export default function Home() {
                       aria-disabled={isExpired}
                       onClick={(e) => isExpired && e.preventDefault()}
                     >
-                      Exclusive - $499
+                      Exclusive - ₹499
                     </a>
                   </div>
                 </div>
@@ -541,7 +541,7 @@ export default function Home() {
                       href="mailto:support@example.com"
                       className="hover:text-white transition-colors"
                     >
-                      support@example.com
+                      @scstact on telegram
                     </a>
                   </li>
                   <li>
@@ -558,7 +558,7 @@ export default function Home() {
               </div>
             </div>
             <div className="pt-8 border-t border-red-950/30 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500">
-              <div>&copy; 2024 PayLeaks. All rights reserved.</div>
+              <div>&copy; 2024 VideosHub. All rights reserved.</div>
               <div className="flex items-center gap-2">
                 <Shield className="w-4 h-4 text-[#16a34a]" />
                 <span>SSL Secured | Encrypted Transactions</span>
