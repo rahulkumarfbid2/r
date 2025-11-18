@@ -448,7 +448,7 @@ export default function Home() {
                 <div className="absolute inset-0 bg-black/10" />
                 <div className="relative z-10">
                   <h2 className="text-4xl sm:text-5xl font-black mb-6">
-                    Ready to Get Started?
+                    Ready to Make Your Night Special? 🌙🔥
                   </h2>
                   <p className="text-xl sm:text-2xl mb-10 opacity-90">
                     Join 10,000+ customers and unlock premium content today.
