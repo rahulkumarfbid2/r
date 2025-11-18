@@ -558,7 +558,7 @@ export default function Home() {
               </div>
             </div>
             <div className="pt-8 border-t border-red-950/30 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500">
-              <div>&copy; 2024 VideosHub. All rights reserved.</div>
+              <div>&copy; 2025 VideosHub. All rights reserved.</div>
               <div className="flex items-center gap-2">
                 <Shield className="w-4 h-4 text-[#16a34a]" />
                 <span>SSL Secured | Encrypted Transactions</span>
