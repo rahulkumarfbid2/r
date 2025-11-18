@@ -259,19 +259,19 @@ export default function Home() {
                   <ul className="space-y-4 mb-8">
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">50+ Premium Methods</span>
+                      <span className="text-gray-300">20,000+ Videos</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Instant Digital Delivery</span>
+                      <span className="text-gray-300">Bonus Library</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Lifetime Access</span>
+                      <span className="text-gray-300">Priority Delivery</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Email Support</span>
+                      <span className="text-gray-300">Unlimited Downloads</span>
                     </li>
                   </ul>
                   <a
@@ -305,11 +305,11 @@ export default function Home() {
                   <ul className="space-y-4 mb-8">
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">150+ Premium Methods</span>
+                      <span className="text-gray-300">40,000+ Videos</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Instant Digital Delivery</span>
+                      <span className="text-gray-300">Everything Unlocked</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
@@ -317,7 +317,7 @@ export default function Home() {
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Priority Support</span>
+                      <span className="text-gray-300">24/7 VIP Support</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
@@ -349,15 +349,15 @@ export default function Home() {
                   <ul className="space-y-4 mb-8">
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">300+ Premium Methods</span>
+                      <span className="text-gray-300">60,000+ Videos</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Instant Digital Delivery</span>
+                      <span className="text-gray-300">Newly Leaked Videos</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Lifetime Access + Updates</span>
+                      <span className="text-gray-300">Daily New Video Updates</span>
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
@@ -369,7 +369,7 @@ export default function Home() {
                     </li>
                     <li className="flex items-start gap-3">
                       <Check className="w-5 h-5 text-[#16a34a] mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">Private Community Access</span>
+                      <span className="text-gray-300">Private Telegram Community Access</span>
                     </li>
                   </ul>
                   <a
