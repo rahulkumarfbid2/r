@@ -503,7 +503,7 @@ export default function Home() {
               <div className="md:col-span-2">
                 <div className="flex items-center gap-2 mb-4">
                   <Lock className="w-6 h-6 text-[#d62b2b]" />
-                  <span className="text-xl font-bold">PayLeaks</span>
+                  <span className="text-xl font-bold">Videos Hub</span>
                 </div>
                 <p className="text-gray-400 mb-4">
                   Premium leaked content and insider methods delivered instantly.
@@ -538,7 +538,7 @@ export default function Home() {
                 <ul className="space-y-2 text-gray-400">
                   <li>
                     <a
-                      href="mailto:support@example.com"
+                      href="https://t.me/scstact"
                       className="hover:text-white transition-colors"
                     >
                       @scstact on telegram
