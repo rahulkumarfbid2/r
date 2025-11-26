@@ -134,7 +134,7 @@ export default function Home() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://payleaks.bolt.host/399"
+                    href="https://superprofile.bio/vp/-lLPjT5Z"
                     className="px-8 py-4 bg-[#d62b2b] hover:bg-[#b62424] rounded-lg font-bold text-lg transition-all duration-200 shadow-2xl shadow-red-900/50 hover:shadow-red-900/70 hover:scale-105"
                   >
                     Get Instant Access
@@ -275,7 +275,7 @@ export default function Home() {
                     </li>
                   </ul>
                   <a
-                    href="https://payleaks.bolt.host/299"
+                    href="https://superprofile.bio/vp/premium-video-bundle"
                     className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ${
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
@@ -325,7 +325,7 @@ export default function Home() {
                     </li>
                   </ul>
                   <a
-                    href="https://payleaks.bolt.host/399"
+                    href="https://superprofile.bio/vp/-lLPjT5Z"
                     className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ₹{
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
@@ -373,7 +373,7 @@ export default function Home() {
                     </li>
                   </ul>
                   <a
-                    href="https://payleaks.bolt.host/499"
+                    href="https://superprofile.bio/vp/bfJgTHjj"
                     className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ${
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
@@ -455,7 +455,7 @@ export default function Home() {
                   </p>
                   <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <a
-                      href="https://payleaks.bolt.host/299"
+                      href="https://superprofile.bio/vp/premium-video-bundle"
                       className={`px-8 py-4 rounded-lg font-bold text-lg transition-all duration-200 ${
                         isExpired
                           ? 'bg-gray-700 cursor-not-allowed opacity-50'
@@ -467,7 +467,7 @@ export default function Home() {
                       Premium - ₹299
                     </a>
                     <a
-                      href="https://payleaks.bolt.host/399"
+                      href="https://superprofile.bio/vp/-lLPjT5Z"
                       className={`px-8 py-4 rounded-lg font-bold text-lg transition-all duration-200 border-2 ${
                         isExpired
                           ? 'bg-gray-700 border-gray-600 cursor-not-allowed opacity-50'
@@ -479,7 +479,7 @@ export default function Home() {
                       Ultimate - ₹399
                     </a>
                     <a
-                      href="https://payleaks.bolt.host/499"
+                      href="https://superprofile.bio/vp/bfJgTHjj"
                       className={`px-8 py-4 rounded-lg font-bold text-lg transition-all duration-200 ${
                         isExpired
                           ? 'bg-gray-700 cursor-not-allowed opacity-50'
