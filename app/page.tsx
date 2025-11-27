@@ -275,7 +275,7 @@ export default function Home() {
                     </li>
                   </ul>
                   <a
-                    href="https://superprofile.bio/vp/premium-video-bundle"
+                    href="https://superprofile.bio/vp/premium-video-bundle?checkout=true"
                     className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ${
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
@@ -325,7 +325,7 @@ export default function Home() {
                     </li>
                   </ul>
                   <a
-                    href="https://superprofile.bio/vp/-lLPjT5Z"
+                    href="https://superprofile.bio/vp/-lLPjT5Z?checkout=true"
                     className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ₹{
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
@@ -373,7 +373,7 @@ export default function Home() {
                     </li>
                   </ul>
                   <a
-                    href="https://superprofile.bio/vp/bfJgTHjj"
+                    href="https://superprofile.bio/vp/bfJgTHjj?checkout=true"
                     className={`block w-full py-4 rounded-lg font-bold text-center transition-all duration-200 ${
                       isExpired
                         ? 'bg-gray-700 cursor-not-allowed opacity-50'
